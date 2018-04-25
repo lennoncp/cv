@@ -153,3 +153,16 @@ a:hover, a:focus, a:active {
 .text_color{
     color: rgb(14, 99, 140) !important;
 }
+
+.linkA {
+  color: #868E96;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
+}
+
+.linkA:hover {
+  color: #007FBC;
+  background-color:transparent;
+  text-decoration: none;
+}
